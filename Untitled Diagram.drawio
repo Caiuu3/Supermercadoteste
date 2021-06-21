@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T15:27:09.715Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="XDKSWCgLj8xPhWNfnfDh" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-21T15:27:53.813Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="gvecD0mHYZXr1VJuQ0iT" version="14.8.0" type="github">
   <diagram id="FbbW2fQmTggYpI_9AsRe" name="Page-1">
-    <mxGraphModel dx="1612" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1935" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -216,7 +216,7 @@
           <mxGeometry x="10" y="1075" width="156" height="80" as="geometry" />
         </mxCell>
         <mxCell id="g2Q05PXCTVxbgeH1rCP--53" value="Gerar holerites" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="950" width="156" height="80" as="geometry" />
+          <mxGeometry x="-290" y="940" width="156" height="80" as="geometry" />
         </mxCell>
         <mxCell id="g2Q05PXCTVxbgeH1rCP--60" value="Informações de cadastro dos funcionários" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="170" width="156" height="80" as="geometry" />
@@ -227,7 +227,7 @@
         <mxCell id="g2Q05PXCTVxbgeH1rCP--68" value="Alterar cadastro próprio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="610" width="156" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g2Q05PXCTVxbgeH1rCP--72" value="" style="endArrow=block;html=1;fontSize=15;startSize=13;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;" edge="1" parent="1">
+        <mxCell id="g2Q05PXCTVxbgeH1rCP--72" value="" style="endArrow=block;html=1;fontSize=15;startSize=13;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t3Jh7l3G9r-InBYetcF1-27" target="g2Q05PXCTVxbgeH1rCP--53">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-10" y="1000" as="sourcePoint" />
             <mxPoint x="-170" y="1060" as="targetPoint" />
