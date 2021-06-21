@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T13:42:27.808Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="qfp0IQfF-5s3RWlAa08C" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-21T13:46:13.773Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="KXi7HmRx_J6WUjdvAkJz" version="14.8.0" type="github">
   <diagram id="FbbW2fQmTggYpI_9AsRe" name="Page-1">
     <mxGraphModel dx="1108" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,28 @@
         <mxCell id="t3Jh7l3G9r-InBYetcF1-28" value="Funcionário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="650" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t3Jh7l3G9r-InBYetcF1-29" value="Funcionário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="t3Jh7l3G9r-InBYetcF1-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=11;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=15;startArrow=none;startFill=0;endArrow=none;endFill=0;startSize=13;" edge="1" parent="1" source="t3Jh7l3G9r-InBYetcF1-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="325" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t3Jh7l3G9r-InBYetcF1-29" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="780" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t3Jh7l3G9r-InBYetcF1-30" value="Usuário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="710" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t3Jh7l3G9r-InBYetcF1-34" value="" style="endArrow=block;html=1;fontSize=15;startSize=13;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;" edge="1" parent="1" source="t3Jh7l3G9r-InBYetcF1-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="870" as="sourcePoint" />
+            <mxPoint x="220" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t3Jh7l3G9r-InBYetcF1-35" value="" style="endArrow=block;html=1;fontSize=15;startSize=13;endFill=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="t3Jh7l3G9r-InBYetcF1-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="800" as="sourcePoint" />
+            <mxPoint x="230" y="770" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
