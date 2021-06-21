@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T15:38:58.816Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="_6urkIsqaFToaQJ2fzLY" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-21T15:40:55.857Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="bRY9QtiYoGzsvMPQGvO9" version="14.8.0" type="github">
   <diagram id="FbbW2fQmTggYpI_9AsRe" name="Page-1">
-    <mxGraphModel dx="1612" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1769" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -271,7 +271,7 @@
         <mxCell id="g2Q05PXCTVxbgeH1rCP--81" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="919" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g2Q05PXCTVxbgeH1rCP--82" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.308;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="t3Jh7l3G9r-InBYetcF1-27">
+        <mxCell id="g2Q05PXCTVxbgeH1rCP--82" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.308;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.558;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="t3Jh7l3G9r-InBYetcF1-27" target="g2Q05PXCTVxbgeH1rCP--83">
           <mxGeometry y="11" relative="1" as="geometry">
             <mxPoint x="-172.43599999999992" y="1259.62" as="sourcePoint" />
             <mxPoint x="-162" y="1120" as="targetPoint" />
@@ -279,7 +279,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g2Q05PXCTVxbgeH1rCP--83" value="Gerar voucher R$ 100 da Americanas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="944" width="156" height="80" as="geometry" />
+          <mxGeometry x="-340" y="949" width="156" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g2Q05PXCTVxbgeH1rCP--84" value="" style="endArrow=block;html=1;fontSize=15;startSize=13;exitX=0;exitY=1;exitDx=0;exitDy=0;endFill=0;entryX=0.692;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="g2Q05PXCTVxbgeH1rCP--78" target="g2Q05PXCTVxbgeH1rCP--83">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-200" y="904" as="sourcePoint" />
+            <mxPoint x="-354" y="858" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
